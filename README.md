@@ -9,6 +9,8 @@
   </div>
 </div>
 
+---
+
 ### :hammer_and_wrench: Tools
 <table>
   <tbody>
@@ -45,6 +47,8 @@
     </tr>
   </tbody>
 </table>
+
+---
 
 ### :mailbox: Contact
 <div id="badges">
