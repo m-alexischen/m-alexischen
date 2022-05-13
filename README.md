@@ -5,7 +5,7 @@
     <p>🌱 Front-End Developer</p>
   </div>
   <div>
-    <p>A software engineer with a background in biology made a career transition from the education field. Inspired by the continuously evolving nature of software engineering, I recently started my self-learning path in coding and have been coding ever since. I love learning about new technologies and tools, and I also enjoy problem-solving and building easy-to-use applications.</p>
+    <p>A software engineer with a background in biology made a career transition from the education field. Inspired by the continuously evolving nature of software engineering, I recently started my self-learning path in coding and have been coding ever since. I love learning about new technologies and tools, and I also enjoy problem-solving and building easy-to-use applications!</p>
   </div>
 </div>
 
