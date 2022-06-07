@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/menghan-alexis-chen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://alexischen.netlify.app">
     <img src="https://img.shields.io/badge/Alexis-navy?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
